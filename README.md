@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EMRAN HOSSAIN</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
-<img> aling="right" alt="coding" width="400" src="/storage/emulated/0/Download/rudrabarad_Gifs_ Collection of some Coding _ Programming Gifs that can be used in Special Repository">
+<img> aling="right" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-fro-man&label=Profile%20views&color=0e75b6&style=flat" alt="max-fro-man" /> </p>
 
 - 🔭 I’m currently working on [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} Pogrammer](Pogrammer)
