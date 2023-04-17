@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm EMRAN HOSSAIN</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
+<h1 align="center">Hi ☠️, I'm _(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}{{𝗘𝗠𝗥𝗔𝗡}}</h1>
+<h3 align="center">A passionate frontend developer from [{{{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}}]((𝗘𝗠𝗥𝗔𝗡))(((𝗖𝗬𝗕𝗘𝗥))){{𝗞𝗜𝗡𝗚}}</h3>
 <img> aling="right" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-fro-man&label=Profile%20views&color=0e75b6&style=flat" alt="max-fro-man" /> </p>
 
-- 🔭 I’m currently working on [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} Pogrammer](Pogrammer)
+- 🔭 I’m currently working on [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}_(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}](𝗘𝗠𝗥𝗔𝗡)
 
-- 🌱 I’m currently learning **𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} Python pprogramming**
+- 🌱 I’m currently learning **𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} _(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}](𝗘𝗠𝗥𝗔𝗡)**
 
-- 👯 I’m looking to collaborate on [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}](Pogrammer)
+- 👯 I’m looking to collaborate on [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}](_(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}](𝗘𝗠𝗥𝗔𝗡))
 
 - 🤝 I’m looking for help with [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} Python pprogramming](https://t.me/+nvSnz0X_o_U4MGRk)
 
-- 👨‍💻 All of my projects are available at [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} Python pprogramming](cYBER 99 HACKING Python pprogramming)
+- 👨‍💻 All of my projects are available at [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}} _(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}](𝗖𝗬𝗕𝗘𝗥_𝟵𝟵_𝗛𝗔𝗖𝗞𝗜𝗡𝗚)
 
-- 📝 I regularly write articles on [Pogrammer 𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}](Pogrammer 𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}})
+- 📝 I regularly write articles on [_(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}{{𝗘𝗠𝗥𝗔𝗡}}](𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}})
 
 - 💬 Ask me about **BANGLADESH 𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}**
 
 - 📫 How to reach me **EMRAN0499@gmail.com**
 
-- 📄 Know about my experiences [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}](Pogrammer Emran cyber)
+- 📄 Know about my experiences [𝗖𝗬𝗕𝗘𝗥{{𝟵𝟵}}𝗛𝗔𝗖𝗞𝗜𝗡{{𝗘𝗠𝗥𝗔𝗡}}](_(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}{{𝗘𝗠𝗥𝗔𝗡}})
 
 - ⚡ Fun fact **People can do everything but not one thing And that's what he doesn't do**
 
