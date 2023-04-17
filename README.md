@@ -1,4 +1,4 @@
-<h1 align="center">Hi ☠️, I'm [[[[[{{𝗘𝗠𝗥𝗔𝗡}}]]]]_(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}</h1>
+<h1 align="center">Hi ☠️, I'm [{{𝗘𝗠𝗥𝗔𝗡}}]_(((𝗣𝗬𝗧𝗛𝗢𝗡))_{{{{𝗣𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}</h1>
 <h3 align="center">A passionate frontend developer from [{{{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}}]((𝗘𝗠𝗥𝗔𝗡))(((𝗖𝗬𝗕𝗘𝗥))){{𝗞𝗜𝗡𝗚}}</h3>
 <img> aling="right" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-fro-man&label=Profile%20views&color=0e75b6&style=flat" alt="max-fro-man" /> </p>
