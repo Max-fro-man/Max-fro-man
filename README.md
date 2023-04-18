@@ -1,6 +1,14 @@
 {{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 {{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 EMRAN CYBER </h1>
 
+![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
+<br>
+<br>
+<div align="center">
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Max-fro-man) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 
