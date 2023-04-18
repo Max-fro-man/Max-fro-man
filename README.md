@@ -1,9 +1,6 @@
 {{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 {{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{𝗛𝗔𝗖𝗞𝗘𝗥}}
 
-
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Max-fro-man) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 
@@ -14,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Max-fro-man&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-fro-man&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 ![](https://github-profile-trophy.vercel.app/?username=Max-fro-man&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
