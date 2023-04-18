@@ -1,6 +1,5 @@
 {{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-{{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{𝗛𝗔𝗖𝗞𝗘𝗥}}
-
+{{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Max-fro-man) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 
