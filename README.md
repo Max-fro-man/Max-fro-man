@@ -1,29 +1,6 @@
 {{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 {{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Max-fro-man) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/{{𝗘𝗠𝗥𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 
